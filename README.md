@@ -9,4 +9,5 @@ http://localhost:8080/albums/Beatles
 http -f POST http://localhost:8080/albums year=1990 artist=Ispolnitel genre=Janr album=albom
 
 Год проверяется на int и диапазон значений
+
 Жанр, исполнитель и альбом проверяются на непустые значения
